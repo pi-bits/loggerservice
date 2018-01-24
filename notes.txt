@@ -1,0 +1,5 @@
+ /*       Appender<ILoggingEvent> consoleAppender = ((Logger) LoggerFactory
+                                                                .getLogger("uk.co.satander.mortgages"))
+                                                                         .getAppender("STDOUT");
+
+        Assert.assertNotNull(consoleAppender);*/
